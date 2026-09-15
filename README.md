@@ -1,1 +1,1 @@
-Website for the 2nd AIMS workshop on the theory of quantum learning algorithms
+Website for the 2nd AIMS workshop on the theory of quantum learning algorithms. The url for this website is: https://r-sweke.github.io/aims-theory-of-quantum-learning-2026/
