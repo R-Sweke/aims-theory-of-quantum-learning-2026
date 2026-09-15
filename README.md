@@ -1,1 +1,1 @@
-Website for the conference
+Website for the 2nd AIMS workshop on the theory of quantum learning algorithms
